@@ -1,0 +1,44 @@
+
+.contans{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.bannerimage{
+    position: relative;
+    height: 350px;
+    width:100%;
+    
+}
+
+
+.btns{
+    display: flex;
+    margin-left: 80px;
+    margin-bottom: 100px;
+}
+button{
+    color: black;
+    background-color: white;
+    height: 30px;
+    width: 70px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    border: 0px;
+   
+    
+}
+.bnnerImg{
+    width: 100%;
+    height: 100%;
+}
+button:hover{
+    background-color: transparent;
+    color: white;
+}
+
+.title{
+    color: white;
+    margin-left: 75px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: -10px;
+}

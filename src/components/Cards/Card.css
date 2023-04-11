@@ -1,0 +1,25 @@
+.row{
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 100%;
+    
+    
+}
+.post{
+    margin-left: -10px;
+    display: flex;
+}
+.row::-webkit-scrollbar{
+    display: none;
+}
+
+.post img:hover{
+    transform: scale(1.3);
+}
+.post img{
+    height: 200px;
+    width: 350px;
+    padding: 5px;
+    transform: 0.5 all ease-in-out;
+}

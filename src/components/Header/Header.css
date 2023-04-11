@@ -1,0 +1,11 @@
+.nav{
+
+    height: 75px;
+    width: 100%;
+    background-color: black;
+
+}
+.image img{
+    width:200px;
+    height: 75px;
+}
